@@ -24,4 +24,17 @@ __pycache__/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbday4/data/
+
+
+# 이미지 데이터
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.tiff
+*.tifday4/data/
+day4/data/
+day4/data/
