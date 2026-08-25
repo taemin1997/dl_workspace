@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "albumentations>=2.0.8",
+    "av>=17.1.0",
     "beautifulsoup4>=4.15.0",
     "dotenv>=0.9.9",
     "folium>=0.20.0",
@@ -24,13 +25,17 @@ dependencies = [
     "pytz>=2026.3.post1",
     "requests>=2.34.2",
     "response>=0.5.0",
+    "scikit-image>=0.26.0",
     "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
     "streamlit>=1.61.1",
+    "streamlit-drawable-canvas>=0.9.3",
+    "streamlit-webrtc>=0.77.0",
     "torch>=2.13.0",
     "torchsummary>=1.5.1",
     "torchvision>=0.28.0",
     "tqdm>=4.70.0",
+    "ultralytics>=8.4.127",
 ]
 
 [project.scripts]
